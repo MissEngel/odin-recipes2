@@ -1,0 +1,1 @@
+This project will show an improvement of my HTML skills by creating a simple webpage to access certain recipes of interest for the user. I will use HTML tags I have learnt so far like the anchor tag, img and lists
